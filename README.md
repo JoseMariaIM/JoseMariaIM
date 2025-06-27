@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Android Apps<br>I'm currently learning Kotlin
+I'm currently working on Android Apps<br>I'm currently learning Kotlin<br>Android Developer with a strong passion for programming, web development, and mobile app development. Highly capable of learning and applying my knowledge in professional settings.<br> Enthusiastic about 3D printing and DIY project development. A music lover and guitarist 🎸. <br>I’m driven by a relentless curiosity to learn new things, which fuels my motivation to keep moving forward.
 
 
 ## 🌐 Socials:
