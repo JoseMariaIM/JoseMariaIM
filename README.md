@@ -14,7 +14,7 @@ I'm currently working on Android Apps<br>I'm currently learning Kotlin<br>Androi
 ![](https://github-profile-trophy.vercel.app/?username=JoseMariaIM&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![Snake animation](https://github.com/JoseMariaIM/JoseMariaIM/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JoseMariaIM/JoseMariaIM/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
